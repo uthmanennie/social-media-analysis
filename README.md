@@ -14,3 +14,7 @@
  signs of behavior change. It is further illustrated how social media analytics and Tableau may
  help health authorities make data-driven decisions by visualizing the prevalence of social media
  platforms, with Facebook being the most common platform for website visitors.
+
+ 
+ ![Dashboard](https://github.com/uthmanennie/social-media-analysis/assets/159449534/74f1dba5-13ae-4e2e-a362-0acd3d058c66)
+
